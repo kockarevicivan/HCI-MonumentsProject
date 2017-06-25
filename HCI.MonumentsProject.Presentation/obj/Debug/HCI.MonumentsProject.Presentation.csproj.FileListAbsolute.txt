@@ -1,0 +1,203 @@
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Presentation.exe.config
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Presentation.exe
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Presentation.pdb
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.BL.dll
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Domain.dll
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.DAL.dll
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.BL.pdb
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Domain.pdb
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.DAL.pdb
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.csprojResolveAssemblyReference.cache
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\MainWindow.g.cs
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\App.g.cs
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation_MarkupCompile.cache
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation_MarkupCompile.lref
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\MainWindow.baml
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.g.resources
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.Properties.Resources.resources
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.csproj.GenerateResource.Cache
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.exe
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.pdb
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\MonumentList.g.cs
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\MonumentList.baml
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\Map.g.cs
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\Map.baml
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\TagList.g.cs
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\TagList.baml
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\EditMonument.g.cs
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\NewMonument.g.cs
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\EditMonument.baml
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\NewMonument.baml
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\EditTag.g.cs
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\NewTag.g.cs
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\EditTag.baml
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\NewTag.baml
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\EditMonumentType.g.cs
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\MonumentTypeList.g.cs
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\NewMonumentType.g.cs
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\EditMonumentType.baml
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\MonumentTypeList.baml
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Presentation\obj\Debug\NewMonumentType.baml
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Presentation.exe.config
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Presentation.exe
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Presentation.pdb
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.BL.dll
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Domain.dll
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.DAL.dll
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.BL.pdb
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Domain.pdb
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.DAL.pdb
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.csprojResolveAssemblyReference.cache
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\EditMonument.g.cs
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\EditMonumentType.g.cs
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\EditTag.g.cs
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\MainWindow.g.cs
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\Map.g.cs
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\MonumentList.g.cs
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\MonumentTypeList.g.cs
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\NewMonument.g.cs
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\NewMonumentType.g.cs
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\NewTag.g.cs
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\TagList.g.cs
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\App.g.cs
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation_MarkupCompile.cache
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation_MarkupCompile.lref
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\EditMonument.baml
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\EditMonumentType.baml
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\EditTag.baml
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\MainWindow.baml
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\Map.baml
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\MonumentList.baml
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\MonumentTypeList.baml
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\NewMonument.baml
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\NewMonumentType.baml
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\NewTag.baml
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\TagList.baml
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.g.resources
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.Properties.Resources.resources
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.csproj.GenerateResource.Cache
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.exe
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Presentation.exe.config
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.exe
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\EditMonument.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\EditMonumentType.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\EditTag.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\MainWindow.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\Map.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\MonumentList.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\MonumentTypeList.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\NewMonument.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\NewMonumentType.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\NewTag.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\TagList.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\App.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation_MarkupCompile.cache
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation_MarkupCompile.lref
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Presentation.exe
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Presentation.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.BL.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Domain.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.DAL.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.BL.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Domain.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.DAL.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\EditMonument.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\EditMonumentType.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\EditTag.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\MainWindow.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\Map.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\MonumentList.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\MonumentTypeList.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\NewMonument.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\NewMonumentType.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\NewTag.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\TagList.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.g.resources
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.Properties.Resources.resources
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.csproj.GenerateResource.Cache
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Commons.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Commons.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\HelpFiles\HelpViewer.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Presentation\obj\Debug\HelpFiles\HelpViewer.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Presentation.exe.config
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Presentation.exe
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Presentation.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.BL.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Commons.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Domain.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.DAL.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.BL.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Commons.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.Domain.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\HCI.MonumentsProject.DAL.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\HelpFiles\HelpViewer.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\EditMonument.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\EditMonumentType.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\EditTag.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\HelpFiles\HelpViewer.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\MainWindow.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\Map.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\MonumentList.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\MonumentTypeList.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\NewMonument.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\NewMonumentType.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\NewTag.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\TagList.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\App.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation_MarkupCompile.cache
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation_MarkupCompile.lref
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\EditMonument.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\EditMonumentType.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\EditTag.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\MainWindow.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\Map.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\MonumentList.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\MonumentTypeList.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\NewMonument.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\NewMonumentType.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\NewTag.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\TagList.baml
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.g.resources
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.Properties.Resources.resources
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.csproj.GenerateResource.Cache
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.exe
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v3.0\HCI.MonumentsProject.Presentation\obj\Debug\HCI.MonumentsProject.Presentation.pdb

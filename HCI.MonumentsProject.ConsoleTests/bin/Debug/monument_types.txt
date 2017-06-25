@@ -1,0 +1,1 @@
+tipSpomenika1,Neki tip,Neki opis.,slika.png

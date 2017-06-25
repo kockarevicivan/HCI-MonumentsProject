@@ -1,0 +1,26 @@
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.ConsoleTests\bin\Debug\HCI.MonumentsProject.ConsoleTests.exe.config
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.ConsoleTests\bin\Debug\HCI.MonumentsProject.ConsoleTests.exe
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.ConsoleTests\bin\Debug\HCI.MonumentsProject.ConsoleTests.pdb
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.ConsoleTests\bin\Debug\HCI.MonumentsProject.BL.dll
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.ConsoleTests\bin\Debug\HCI.MonumentsProject.Domain.dll
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.ConsoleTests\bin\Debug\HCI.MonumentsProject.BL.pdb
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.ConsoleTests\bin\Debug\HCI.MonumentsProject.Domain.pdb
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.ConsoleTests\obj\Debug\HCI.MonumentsProject.ConsoleTests.csprojResolveAssemblyReference.cache
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.ConsoleTests\obj\Debug\HCI.MonumentsProject.ConsoleTests.exe
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.ConsoleTests\obj\Debug\HCI.MonumentsProject.ConsoleTests.pdb
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.ConsoleTests\bin\Debug\HCI.MonumentsProject.DAL.dll
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.ConsoleTests\bin\Debug\HCI.MonumentsProject.DAL.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.ConsoleTests\bin\Debug\HCI.MonumentsProject.ConsoleTests.exe.config
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.ConsoleTests\bin\Debug\HCI.MonumentsProject.ConsoleTests.exe
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.ConsoleTests\bin\Debug\HCI.MonumentsProject.ConsoleTests.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.ConsoleTests\bin\Debug\HCI.MonumentsProject.BL.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.ConsoleTests\bin\Debug\HCI.MonumentsProject.Domain.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.ConsoleTests\bin\Debug\HCI.MonumentsProject.DAL.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.ConsoleTests\bin\Debug\HCI.MonumentsProject.BL.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.ConsoleTests\bin\Debug\HCI.MonumentsProject.Domain.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.ConsoleTests\bin\Debug\HCI.MonumentsProject.DAL.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.ConsoleTests\obj\Debug\HCI.MonumentsProject.ConsoleTests.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.ConsoleTests\obj\Debug\HCI.MonumentsProject.ConsoleTests.exe
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.ConsoleTests\obj\Debug\HCI.MonumentsProject.ConsoleTests.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.ConsoleTests\bin\Debug\HCI.MonumentsProject.Commons.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.ConsoleTests\bin\Debug\HCI.MonumentsProject.Commons.pdb

@@ -1,0 +1,32 @@
+﻿<Window x:Class="HCI.MonumentsProject.Presentation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:l="clr-namespace:HCI.MonumentsProject.Presentation.HelpFiles"
+        xmlns:local="clr-namespace:HCI.MonumentsProject.Presentation"
+        mc:Ignorable="d"
+        Title="Kompletna lista spomenika" Height="485" Width="310" ResizeMode="NoResize" l:HelpProvider.HelpKey="index">
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.Help" Executed="CommandBinding_Executed"/>
+    </Window.CommandBindings>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+        <Image Grid.Row="0" x:Name="imageLogo" Source="Resources/Images/monumentsLogo.png" HorizontalAlignment="Left" Height="56" Margin="10,10,0,0" VerticalAlignment="Top" Width="272"/>
+        <Button Grid.Row="1" x:Name="monumentListButton" Content="Lista spomenika" HorizontalAlignment="Left" Margin="10,10,10,10" VerticalAlignment="Top" Width="272" Height="54" Click="monumentListButton_Click"/>
+        <Button Grid.Row="2" x:Name="tagListbutton" Content="Lista etiketa" HorizontalAlignment="Left" Margin="10,10,10,10" VerticalAlignment="Top" Width="272" Height="54" Click="tagListbutton_Click"/>
+        <Button Grid.Row="3" x:Name="monumentTypeListButton" Content="Tipovi spomenika" HorizontalAlignment="Left" Margin="10,10,10,10" VerticalAlignment="Top" Width="272" Height="54" Click="monumentTypeListButton_Click"/>
+        <Button Grid.Row="4" x:Name="mapButton" Content="Mapa" HorizontalAlignment="Left" Margin="10,10,10,10" VerticalAlignment="Top" Width="272" Height="54" Click="mapButton_Click"/>
+        <Button Grid.Row="5" x:Name="exitButton" Content="Izlazak" HorizontalAlignment="Left" Margin="10,10,10,10" VerticalAlignment="Top" Width="272" Height="54" Click="exitButton_Click"/>
+    </Grid>
+</Window>

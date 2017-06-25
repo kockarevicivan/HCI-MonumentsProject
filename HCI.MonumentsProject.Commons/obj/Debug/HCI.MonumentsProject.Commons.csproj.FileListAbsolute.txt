@@ -1,0 +1,5 @@
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Commons\bin\Debug\HCI.MonumentsProject.Commons.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Commons\bin\Debug\HCI.MonumentsProject.Commons.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Commons\obj\Debug\HCI.MonumentsProject.Commons.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Commons\obj\Debug\HCI.MonumentsProject.Commons.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Commons\obj\Debug\HCI.MonumentsProject.Commons.pdb

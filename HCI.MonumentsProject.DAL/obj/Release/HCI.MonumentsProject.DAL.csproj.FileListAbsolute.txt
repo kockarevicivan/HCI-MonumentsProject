@@ -1,0 +1,7 @@
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.DAL\bin\Release\HCI.MonumentsProject.DAL.dll
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.DAL\bin\Release\HCI.MonumentsProject.DAL.pdb
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.DAL\bin\Release\HCI.MonumentsProject.Domain.dll
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.DAL\bin\Release\HCI.MonumentsProject.Domain.pdb
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.DAL\obj\Release\HCI.MonumentsProject.DAL.csprojResolveAssemblyReference.cache
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.DAL\obj\Release\HCI.MonumentsProject.DAL.dll
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.DAL\obj\Release\HCI.MonumentsProject.DAL.pdb

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{049A4987-9B3A-4BAC-A033-F56FF09C8362}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HCI.MonumentsProject.BL</RootNamespace>
+    <AssemblyName>HCI.MonumentsProject.BL</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Contracts\IMonumentManager.cs" />
+    <Compile Include="Contracts\IMonumentTypeManager.cs" />
+    <Compile Include="Contracts\IPositionManager.cs" />
+    <Compile Include="Contracts\ITagManager.cs" />
+    <Compile Include="Managers\MonumentManager.cs" />
+    <Compile Include="Managers\MonumentTypeManager.cs" />
+    <Compile Include="Managers\PositionManager.cs" />
+    <Compile Include="Managers\TagManager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HCI.MonumentsProject.Commons\HCI.MonumentsProject.Commons.csproj">
+      <Project>{fdbd2692-f3d6-463f-b9e3-b70e9d20b13e}</Project>
+      <Name>HCI.MonumentsProject.Commons</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HCI.MonumentsProject.DAL\HCI.MonumentsProject.DAL.csproj">
+      <Project>{cd33101f-1924-489c-9b4e-b8f672ba9a9f}</Project>
+      <Name>HCI.MonumentsProject.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HCI.MonumentsProject.Domain\HCI.MonumentsProject.Domain.csproj">
+      <Project>{b8b2227c-3dfc-4260-96ce-98b90c838080}</Project>
+      <Name>HCI.MonumentsProject.Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCI.MonumentsProject.DAL", "HCI.MonumentsProject.DAL\HCI.MonumentsProject.DAL.csproj", "{CD33101F-1924-489C-9B4E-B8F672BA9A9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCI.MonumentsProject.BL", "HCI.MonumentsProject.BL\HCI.MonumentsProject.BL.csproj", "{049A4987-9B3A-4BAC-A033-F56FF09C8362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCI.MonumentsProject.ConsoleTests", "HCI.MonumentsProject.ConsoleTests\HCI.MonumentsProject.ConsoleTests.csproj", "{AF5E110D-F16C-4FFA-8B17-2BDD9A0FC347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCI.MonumentsProject.Domain", "HCI.MonumentsProject.Domain\HCI.MonumentsProject.Domain.csproj", "{B8B2227C-3DFC-4260-96CE-98B90C838080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCI.MonumentsProject.Presentation", "HCI.MonumentsProject.Presentation\HCI.MonumentsProject.Presentation.csproj", "{02E4C4D1-DD97-418A-88C8-7737FA0C65F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCI.MonumentsProject.Commons", "HCI.MonumentsProject.Commons\HCI.MonumentsProject.Commons.csproj", "{FDBD2692-F3D6-463F-B9E3-B70E9D20B13E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD33101F-1924-489C-9B4E-B8F672BA9A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD33101F-1924-489C-9B4E-B8F672BA9A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD33101F-1924-489C-9B4E-B8F672BA9A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD33101F-1924-489C-9B4E-B8F672BA9A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{049A4987-9B3A-4BAC-A033-F56FF09C8362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049A4987-9B3A-4BAC-A033-F56FF09C8362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049A4987-9B3A-4BAC-A033-F56FF09C8362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049A4987-9B3A-4BAC-A033-F56FF09C8362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF5E110D-F16C-4FFA-8B17-2BDD9A0FC347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF5E110D-F16C-4FFA-8B17-2BDD9A0FC347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF5E110D-F16C-4FFA-8B17-2BDD9A0FC347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF5E110D-F16C-4FFA-8B17-2BDD9A0FC347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8B2227C-3DFC-4260-96CE-98B90C838080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B2227C-3DFC-4260-96CE-98B90C838080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B2227C-3DFC-4260-96CE-98B90C838080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B2227C-3DFC-4260-96CE-98B90C838080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02E4C4D1-DD97-418A-88C8-7737FA0C65F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E4C4D1-DD97-418A-88C8-7737FA0C65F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E4C4D1-DD97-418A-88C8-7737FA0C65F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E4C4D1-DD97-418A-88C8-7737FA0C65F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDBD2692-F3D6-463F-B9E3-B70E9D20B13E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBD2692-F3D6-463F-B9E3-B70E9D20B13E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBD2692-F3D6-463F-B9E3-B70E9D20B13E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBD2692-F3D6-463F-B9E3-B70E9D20B13E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+spomenik1,tag1
+spomenik1,tag2
+spomenik2,tag1
+spomenik2,tag2

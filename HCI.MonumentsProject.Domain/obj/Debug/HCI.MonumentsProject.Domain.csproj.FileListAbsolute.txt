@@ -1,0 +1,17 @@
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Domain\bin\Debug\HCI.MonumentsProject.Domain.dll
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Domain\bin\Debug\HCI.MonumentsProject.Domain.pdb
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Domain\obj\Debug\HCI.MonumentsProject.Domain.csprojResolveAssemblyReference.cache
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Domain\obj\Debug\HCI.MonumentsProject.Domain.dll
+D:\weellabProjects\weellab.photography\HCI.MonumentsProject\HCI.MonumentsProject.Domain\obj\Debug\HCI.MonumentsProject.Domain.pdb
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Domain\bin\Debug\HCI.MonumentsProject.Domain.dll
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Domain\bin\Debug\HCI.MonumentsProject.Domain.pdb
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Domain\obj\Debug\HCI.MonumentsProject.Domain.csprojResolveAssemblyReference.cache
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Domain\obj\Debug\HCI.MonumentsProject.Domain.dll
+F:\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Domain\obj\Debug\HCI.MonumentsProject.Domain.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Domain\obj\Debug\HCI.MonumentsProject.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Domain\obj\Debug\HCI.MonumentsProject.Domain.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Domain\obj\Debug\HCI.MonumentsProject.Domain.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Domain\bin\Debug\HCI.MonumentsProject.Domain.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Domain\bin\Debug\HCI.MonumentsProject.Domain.pdb
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Domain\bin\Debug\HCI.MonumentsProject.Commons.dll
+C:\Users\Ivan\Desktop\HCI.MonumentsProject v1.1\HCI.MonumentsProject.Domain\bin\Debug\HCI.MonumentsProject.Commons.pdb

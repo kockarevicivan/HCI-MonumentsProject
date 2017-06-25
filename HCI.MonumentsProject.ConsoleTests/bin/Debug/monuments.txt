@@ -1,0 +1,2 @@
+spomenik1,Spomenik Jedan,Neki opis,tipSpomenika1,1,slika.png,True,False,False,1,8900,11/17/2011 11:05:17 PM
+spomenik2,Spomenik Dva,Neki opis spomenika,tipSpomenika1,1,slika.png,False,True,False,1,18200,11/17/2011 11:05:17 PM
